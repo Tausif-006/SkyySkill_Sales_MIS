@@ -74,6 +74,7 @@ This project simulates a real-world internal analytics system with role-based ac
 
 <img src="https://github.com/user-attachments/assets/bd7a85b6-4b08-40f7-ad40-26aa79d75019" />
 
+Technical Desicions.
 
 ### State Management (Zustand – Centralized & Modular)
 
